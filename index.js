@@ -34,7 +34,7 @@ const generateHTML = (answers) =>
                 <h5 class="card-title"> ${answers.name}</h5>
               </div>
               <ul class="list-group list-group-flush">
-                <li class="list-group-item">ID: ${answers.id}An item</li>
+                <li class="list-group-item">ID: ${answers.id}</li>
                 <li class="list-group-item">Email: ${answers.email}</li>
                 <li class="list-group-item">Title: ${answers.title}</li>
                 <li class="list-group-item">Office Number: ${answers.office_number}</li> 
@@ -43,22 +43,7 @@ const generateHTML = (answers) =>
             </div>
         </div>
     </div>
-    <div class="container">
-          <div class="col-6">
-            <div class="card" style="width: 18rem;">
-                <div class="card-body">
-                  <h5 class="card-title">${answers.name}</h5>
-                </div>
-                <ul class="list-group list-group-flush">
-                  <li class="list-group-item">An item</li>
-                  <li class="list-group-item">A second item</li>
-                  <li class="list-group-item">A third item</li>
-                </ul>
-                
-              </div>
-          </div>
-      </div>
-
+    
     `
 
 
@@ -84,6 +69,7 @@ function teamMember(){
         message: "What is the team member's email?",
         name: "email",
     },
+    
     {
         type: "list",
         message:"What is your title?",
@@ -99,6 +85,8 @@ function teamMember(){
         }
 
     },
+    
+    
     {
         type: "input",
         name: "github",
