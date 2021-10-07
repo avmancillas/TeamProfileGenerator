@@ -15,14 +15,14 @@
   *[Guidelines](#guidelines)
 
   
-  # **Description**
+  # **Description:**
   ### In this project I created a command line application using Node.js that takes in information about employees on a software engineering team and generates   a HTML webpage. I also created tests for this project. 
   ![screenshot 1](./Assets/screenshot1.png)  
   # **Installation**
   ### Before running this app, you will need to run npm install and npm run seed. This project also uses Jest and Inquirer.
   
   
-  # **Usage**
+  # **Usage:**
   ### This project uses the command line to gather information about employees and generates a HTML webpage.
   
    
