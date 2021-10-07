@@ -1,10 +1,5 @@
 # TeamProfileGenerator
  
-
-[hosted-url](https://avmancillas.github.io/Week10HW/)
-
-[hosted-url](https://drive.google.com/file/d/1wrRK8c9Hu-d0YVOWXVhPENIodWzBcLOV/view)
-
 # **License:**
   ### MIT
   ![License:MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
@@ -33,5 +28,4 @@
    
   # **Links:**
   ### (https://avmancillas.github.io/Week10HW/)
-
-[hosted-url](https://drive.google.com/file/d/1wrRK8c9Hu-d0YVOWXVhPENIodWzBcLOV/view)
+  ### (https://drive.google.com/file/d/1wrRK8c9Hu-d0YVOWXVhPENIodWzBcLOV/view)
